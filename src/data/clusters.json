@@ -1,0 +1,20 @@
+{
+  "two": {
+    "name": "Two Clusters",
+    "clusters": [1,2],
+    "plotDataFile": "/data/two/clusters.json",
+    "climateVariablesDataFile": "/data/two/climateVariables.json"
+  },
+  "three": {
+    "name": "Three Clusters",
+    "clusters": [1,2,3],
+    "plotDataFile": "/data/three/clusters.json",
+    "climateVariablesDataFile": "/data/three/climateVariables.json"
+  },
+  "seven":{
+    "name": "Seven Clusters",
+    "clusters": [1,2,3,4,5,6,7],
+    "plotDataFile": "/data/seven/clusters.json",
+    "climateVariablesDataFile": "/data/seven/climateVariables.json"
+  }
+}
