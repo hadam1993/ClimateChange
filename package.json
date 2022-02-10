@@ -15,7 +15,7 @@
     "leaflet": "^1.6.0",
     "leaflet.markercluster": "^1.4.1",
     "lodash": "^4.17.15",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "pureimage": "^0.1.6",
     "rc-slider": "^8.7.1",
